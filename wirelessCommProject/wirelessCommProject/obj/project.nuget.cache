@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwY0ihGlyef90TYDDqo/U0wu3yffDaGkHrJG1/les/ZXgQErfA24eCbO3vhWVLB4S3R4zr5muLf6L8L+AdIvYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aysei\\source\\repos\\wirelessCommProject\\wirelessCommProject\\wirelessCommProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aysei\\.nuget\\packages\\m2mqtt\\4.3.0\\m2mqtt.4.3.0.nupkg.sha512",
+    "C:\\Users\\aysei\\.nuget\\packages\\supersimpletcp\\3.0.14\\supersimpletcp.3.0.14.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'M2Mqtt 4.3.0' paketi, proje hedef çerçevesi 'net8.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "M2Mqtt",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
